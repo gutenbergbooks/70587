@@ -13,10 +13,11 @@ Title: Terry
 Author: James Hilton
 
 Release Date: April 18, 2023 [eBook #70587]
+Files updated: May 17, 2023
 
 Language: English
 
-Produced by: Dangny and Laura Natal Rodrigues (Images generously made
+Produced by: Dagny and Laura Natal Rodrigues (Images generously made
              available by Hathi Trust Digital Library.)
 
 *** START OF THE PROJECT GUTENBERG EBOOK TERRY ***
@@ -34,7 +35,7 @@ Produced by: Dangny and Laura Natal Rodrigues (Images generously made
 
 
 
-             THORNTON BUTTER-WORTH LIMITED
+             THORNTON BUTTERWORTH LIMITED
            15, BEDFORD STREET, LONDON, W.C. 2
 
 
@@ -796,14 +797,14 @@ brief. "Tea in T's lab. Mrs. S. T. showed her the cats. Afterwards Mrs.
 S. and I talked about T. Finished up at Frigolin's and the Coliseum.
 Little Tich and some good wrestlers."
 
-And for the next day: "T. waked me at 6 A.M. Wanted to know my opinion
+And for the next day: "T. waked me at 6 a.m. Wanted to know my opinion
 about the cat. Agreed after discussion, though surprised at T.
 suggesting it. Caught 9.15 to Manchester. Queen's."
 
 The diary, you will observe, is hardly a Bashkirtseff affair. It was
 written in good faith, not as a literary exercise, and most of its
 entries are mere reminders, unintelligible to outsiders, but significant
-to me even to this day. Terry _did_ waken me that morning at 6 A.M. And
+to me even to this day. Terry _did_ waken me that morning at 6 a.m. And
 the cat business, with which I agreed after discussion, although
 surprised at his suggesting it, was simply this: he wanted to give the
 black-and-white cat to Mrs. Severn. He thought it would be a "nice"
@@ -1019,7 +1020,7 @@ conversation grew personal. I don't mean "personal" in any unpleasant
 sense, but merely literally; we began to talk about ourselves. Or
 rather, perhaps, it was as if Mrs. Severn, Terry and I were suddenly
 being forced to expose our intimate lives to the full glare of Severn's
-arguments, while he alone remained aloof—interested but hardly
+arguments, while he alone remained aloof--interested but hardly
 perturbed. It began by his telling me what ought to be the successive
 stages of my advancement as a literary man. "In a few years," he said
 "you must have a sub-editorship--I'll see whether I can find one for
@@ -1310,7 +1311,7 @@ she might as well continue. No doubt I would be surprised to hear that
 her marriage hadn't been an affair of love--not on her side, at any
 rate.... She had been a _midinette_ in the Rue de la Paix, and Severn a
 chance customer. He had taken her about as he would have taken about any
-girl if he had fancied her sufficiently. "He dazzled me—he was so very
+girl if he had fancied her sufficiently. "He dazzled me--he was so very
 charming and delightful, and I liked him because he wasn't a snob...."
 After the marriage there had been trouble with the Severn family,
 and--"He was splendid then. I liked him most of all when he hadn't more
@@ -2427,7 +2428,7 @@ I hadn't seen him for two years. That fact, so simple and so obvious,
 was yet the hardest of all to realize. I kept on being startled by the
 revelation of what it meant; it gave me almost a shock, for instance,
 when I first heard him talking in fluent colloquial German. Those two
-years ... how had he managed to live them through? What had they meant
+years ... how _had_ he managed to live them through? What had they meant
 to him?
 
 I should never have known but for Mizzi. Mizzi, I soon found, was a
@@ -2875,7 +2876,7 @@ seen her. "I knew you would come," she said, pressing my hand, and the
 accent was better--oh, _much_ better. She led me out of the station
 without saying a word except to hope that I had had a good journey.
 Then, in the station-yard, she gave the porter a few business-like
-directions about my hand-luggage, find imperiously prevented me from
+directions about my hand-luggage, and find imperiously prevented me from
 summoning a cab. I soon saw the reason why. It came in the form of a
 smart motor equipage to seat six or eight passengers and emblazoned in
 gold letters on a blue background, "Hotel London." "You see," said
@@ -3059,7 +3060,7 @@ should arrive to-day. Really extraordinary...."
 "Why?"
 
 "Because to-day"--and he suddenly seemed to grow excited--"I can't
-explain it to you--not in detail.... But it means—almost certainly it
+explain it to you--not in detail.... But it means--almost certainly it
 means--success in the work I am busy on--success after all these
 years--after so many disappointments."
 
@@ -3469,7 +3470,7 @@ after him. "I hope you haven't been knocking for hours," I told him.
 life...." That was a hint, and when he didn't take it, I went on: "Is
 everything all right?"
 
-Then Immediately I could see that everything _wasn't_ all right. He sat
+Then immediately I could see that everything _wasn't_ all right. He sat
 down on a chair and clenched his hands between his knees. "I--I think
 perhaps--I oughtn't to have wakened you," he said at length.
 
@@ -3754,7 +3755,7 @@ in a language I didn't recognize, much less understand. He was obviously
 making some witticism, and the woman answered him by a tinkling little
 chime of laughter. The very loveliness of it and of her was like a goad.
 And then, just when I was beginning to wonder if it would be possible to
-manoeuvre Terry out of the room without a disturbance, Severn looked
+manœuvre Terry out of the room without a disturbance, Severn looked
 round and saw us.
 
 As an exhibition of _sang-froid_ I have never in my life seen anything
@@ -3824,7 +3825,7 @@ Severn seemed quite genuinely surprised. "Why, of course," he replied.
 
 Severn glanced at him curiously and then answered after a pause: "As you
 wish, then. But my train is at ten, remember. Shall we say half-an-hour
-from now—in the lounge?"
+from now--in the lounge?"
 
 And so it was arranged.
 
@@ -3842,7 +3843,7 @@ intention to take sides; I was prepared to mediate, to put the brake on
 where necessary--in short, to keep the whole discussion well under
 blood-heat. Perhaps I succeeded. Perhaps it was really a compliment to
 my impartiality when Severn exclaimed, about half-an-hour after we had
-begun: "Look here, Hilton, what _are_ you in this game—prosecuting
+begun: "Look here, Hilton, what _are_ you in this game--prosecuting
 counsel, defending counsel, judge, jury, hangman, or what?"
 
 I might have answered that I held a watching brief, but that's the sort
@@ -4821,7 +4822,7 @@ answered that there hadn't been any particular reason.
 
 But there had.
 
-That night was very hot, and neither he nor I' was in the mood for
+That night was very hot, and neither he nor I was in the mood for
 sleep. About midnight I left him still pondering over the letter he
 would write to Helen; I said I would go for a short walk to make myself
 drowsy. But when I got downstairs the lounge was so cool and so fragrant
@@ -5973,7 +5974,7 @@ brought my _cordiale Médoc_. "Ah, he's a real good judge of wines--and
 of most other things too, I should say. He had his ideas about this
 place right from the beginning--saw it one afternoon as he was motoring
 past and bought it on the spot, as you might say.... Such a pity about
-his accident—and I do hope he gets well again. Well, really, sir, it
+his accident--and I do hope he gets well again. Well, really, sir, it
 came as such a shock to me when I read about it in the papers, I do
 declare I couldn't eat my dinner after it--_that_ I couldn't...."
 
@@ -6119,7 +6120,7 @@ won't leave me now, whatever happens--women are like that.... So
 perhaps, in the altered circumstances, it would be rather needlessly
 cruel to supply her with hotel evidence from Buda-Pesth."
 
-I said eagerly that I was very glad, and hoped that and Helen would
+I said eagerly that I was very glad, and hoped that he and Helen would
 learn to be very happy again, and so on. He soon interrupted me. He
 said: "You know, Hilton, you're too damned sentimental, that's what's
 the matter with you. You've still got the idea that I'm a very moral
@@ -6207,7 +6208,7 @@ think I _could_ tell it--though I might manage to put it down on paper."
 He was silent for a moment, and then the idea came to him. "My dear
 fellow," he exclaimed suddenly, brandishing his cigar, "the solution's
 staring us in the face and we haven't seen it! ... Man, it's a great
-notion I ... _Put_ it down on paper, as you say--put down every word of
+notion! ... _Put_ it down on paper, as you say--put down every word of
 it! Then spin it out, or cut it down, as the case may be, into a
 full-length novel! ... I told you years ago that you'd have to write a
 novel some time or other--it's expected of every literary man. Now's
@@ -6297,7 +6298,7 @@ persuasion."
 attempting what is utterly beyond him."
 
 She struck a harsh random chord with her left hand. "I'm glad you think
-that. It is utterly beyond you." Then suddenly, swinging round on the
+that. It _is_ utterly beyond you." Then suddenly, swinging round on the
 stool to face me, she asked me how he was and whether he were getting on
 well.
 
@@ -6709,7 +6710,7 @@ work of some sort and put an end to it."
 "But surely he would need his books for his work?"
 
 "No.... He wasn't thinking of _that_ kind of work. He was prepared for
-anything--to take a job in the colonies—to go to sea--_anything_...."
+anything--to take a job in the colonies--to go to sea--_anything_...."
 
 "That would be no use."
 
@@ -6813,7 +6814,7 @@ also it's the only job you'll get....' Better to be frank with him, I
 thought. He said he'd think about it, but I didn't want him to think
 about it--I wanted him to begin right away. So when we got back to the
 hotel I went up to his room (what on earth Taplow thought I don't know),
-and we began sorting out all his old note-books and papers. There's at
+and we began sorting out all his old notebooks and papers. There's at
 least a fortnight's job in that."
 
 "And you really think that he intends to get on with it himself?"
@@ -6966,7 +6967,7 @@ not.... I was calm by the time I climbed my own staircase and unlocked
 the door. Roebuck was out, and in the letter-box there was a telegram.
 
 It had been handed in at Glasgow at six-thirty that evening, and ran:
-"Can you meet me four A.M. to-morrow Crewe Station urgent will look out
+"Can you meet me four a.m. to-morrow Crewe Station urgent will look out
 for you June ..."
 
 
@@ -6981,7 +6982,7 @@ Crewe, at any rate, was not so far, and there was a suitable express
 that left Euston at midnight. But I hadn't the faintest idea why June
 could want me, and why she had been to Glasgow, and why she was coming
 back to Crewe, and why, above all, she had thought the outrageous hour
-of four A.M. most convenient for the appointment.
+of four a.m. most convenient for the appointment.
 
 Nor is Crewe Station an altogether delightful rendezvous before dawn on
 an April morning. My train dumped me down soon after three, and for over
@@ -8124,7 +8125,7 @@ disaster--disaster--over and over again.... And now you're planning that
 he shan't discover the mistakes you've made.... But he _shall_ discover
 them, and the sooner the better. Let him know the truth--let's all of us
 know the truth--let's know the truth about his life and your life and my
-life...."
+life....
 
 "You're afraid it will make him ill? Then let him be ill--better that he
 should be ill of the truth than smiling in your fool's paradise. Let him
@@ -8213,7 +8214,7 @@ completed his salutations. To me he gave a cordial nod, and to June a
 curt quick smile which she returned instantly. He was one of us again.
 
 I remember feeling an almost overmastering desire to make some trifling
-remark—something like--"Extraordinary how the years have flown, isn't
+remark--something like--"Extraordinary how the years have flown, isn't
 it?"--anything, however stupid, that would in some way acknowledge the
 central fact of that eight years' interval. I don't know whether anybody
 else felt like that--quite probably not. Except for Severn, they all
@@ -8565,7 +8566,7 @@ Godalming?"
 "Over the Hog's Back," I answered; and she went on: "I think I prefer
 the other route. Godalming is such a quaint little town."
 
-The rain was dripping off the brim of her hat and she I remarked
+The rain was dripping off the brim of her hat and she remarked
 laughingly that if Mrs. Taplow could lend her some clothes she thought
 she had better change. She smiled at Terry as she went out of the room.
 
@@ -8763,7 +8764,7 @@ happier and easier for Severn. That's why she's coming to live out
 here--not because she's a country-lover herself. She isn't; she's told
 me so quite candidly. Hyde Park, not Hindhead, is her ideal."
 
-I asked him if he though, that she and Severn were getting on better,
+I asked him if he though that she and Severn were getting on better,
 and he answered: "I'm sure of it. She doesn't always agree with him, of
 course--(she didn't over that Karelsky business)--but I think she's very
 happy. That American fellow's coming to operate on July 19th, and she's
@@ -8897,7 +8898,7 @@ known you were so near. Only you said you wanted a talk, and I felt so
 absolutely incapable of talking that I didn't think it worth while to
 drag you all the way from the City."
 
-"Nevertheless, now I'm her--if you don't mind--I _do_ want a talk with
+"Nevertheless, now I'm here--if you don't mind--I _do_ want a talk with
 you."
 
 "All right. Let's have some tea first." She rang a small silver
@@ -9049,7 +9050,7 @@ seemed poverty to you."
 
 "I wouldn't have cared.... You think I love money and luxury, but I
 don't--it all means nothing to me, really. As for Geoffrey's money, it
-gets on my nerves—I _hate_ it. Even now--in his chair all day
+gets on my nerves--I _hate_ it. Even now--in his chair all day
 long--he's making more of it--buying and selling shares and speculating
 and gambling and winning--yes, winning nine times out of ten. That's his
 way--he's always found winning the easiest job in the world.... Yet
@@ -9386,7 +9387,7 @@ and the scorching, pungent smoke was drifting like a white mist over the
 town.
 
 She would keep her word.... Through a night of broken perspiring sleep I
-had pondered over it, dreamed about it, and still there were comers of
+had pondered over it, dreamed about it, and still there were corners of
 its vast ramifications that I hadn't explored. Was it for good or bad
 that things had happened as they had happened? Severn cooped endlessly
 in his chair, or Severn alive again, dazzling the world, drinking life
@@ -9789,7 +9790,7 @@ the word "marriage." If, I said, he thought there was any doubt about
 her feeling for him, why didn't he put the matter to the obvious test?
 "Go to her straightforwardly and say: 'I don't want to give up your
 charming society, but I really must have that job. If, however, you
-would care to marry, me and accompany me to Australia, the difficulty
+would care to marry me and accompany me to Australia, the difficulty
 would be rather neatly solved.'"
 
 _Marriage_? It was absurd to think of it, he said. He had never dreamed
